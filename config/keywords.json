@@ -1,0 +1,52 @@
+{
+    "jobKeywords": [
+      "flutter developer",
+      "react developer",
+      "nodejs developer",
+      "full stack developer",
+      "mobile developer",
+      "frontend developer",
+      "backend developer"
+    ],
+    "mustHaveSkills": [
+      "flutter",
+      "react",
+      "node.js",
+      "firebase",
+      "mongodb"
+    ],
+    "locations": [
+      "remote",
+      "pakistan",
+      "multan",
+      "anywhere"
+    ],
+    "importantEmailKeywords": {
+      "high": [
+        "interview",
+        "offer",
+        "hired",
+        "congratulations",
+        "next steps",
+        "salary",
+        "compensation"
+      ],
+      "medium": [
+        "application received",
+        "resume reviewed",
+        "interested",
+        "schedule",
+        "call"
+      ],
+      "low": [
+        "thank you for applying",
+        "received your application"
+      ]
+    },
+    "excludeKeywords": [
+      "senior architect",
+      "lead",
+      "10+ years",
+      "principal engineer"
+    ]
+  }
